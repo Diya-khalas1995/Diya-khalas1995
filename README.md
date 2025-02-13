@@ -1,16 +1,19 @@
-## Hi there 👋
+🌟 Hi, I'm Diya khalas 
+I'm a passionate *BCA student* at *SilverOak University* 🎓 (SilverOak College of Computer Applications) based in *Ahmedabad, India* 🏙️.
 
-<!--
-**Diya-khalas1995/Diya-khalas1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎖️ Education & Achievements  
+.  *Semester 1 Result*: 9.00 SPI  
+.  *Semester 2 Result*: 8.77SPI  
+.  *Semester 2 Result*: 9.09SPI  
+. 📚 Constantly striving to improve and achieve academic excellence!  
 
-Here are some ideas to get you started:
+ 💻 Skills & Technologies  
+. 🔹 *Languages*: Html,css, JavaScript  
+. 🚀 *Web Development: Currently learning **React.js* and JavaScript frameworks.  
+. 🖥️ *Backend Technologies: Exploring **Python, Java, PL/SQL   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🚀 What I'm Working On  
+. 🎯 Building *React.js projects* to improve my frontend skills.  
+. 🔍 Exploring *backend technologies* and learning new frameworks.  
+
+
