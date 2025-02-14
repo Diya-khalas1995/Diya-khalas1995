@@ -24,6 +24,8 @@ I'm a passionate *BCA student* at *SilverOak University*
 * 🚀 Building *React.js projects* to improve frontend skills.  
 * 🖥️ Exploring *backend technologies* and learning new frameworks.
 
+---
+
   # 🌱 Learning & Growing
 I'm always excited to learn new technologies and expand my knowledge in the field of *software development* and *web development*.
 
