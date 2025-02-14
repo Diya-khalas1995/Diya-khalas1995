@@ -24,4 +24,22 @@ I'm a passionate *BCA student* at *SilverOak University*
 * 🚀 Building *React.js projects* to improve frontend skills.  
 * 🖥️ Exploring *backend technologies* and learning new frameworks.
 
+  # 🌱 Learning & Growing
+I'm always excited to learn new technologies and expand my knowledge in the field of *software development* and *web development*.
+
+---
+
+# 💼 Open to Opportunities
+I'm currently looking for *internships* and *project collaborations*. If you have an exciting project or opportunity, feel free to reach out to me. I'm always open to learning and growing through collaboration.
+
+---
+
+# 📬 How to reach me:
+- *Email:* (khalasdiya@gmail.com)
+
+---
+
+# ⚡ Fact
+Coding and web development are not just my passion—they're my world! 🚀
+
 
